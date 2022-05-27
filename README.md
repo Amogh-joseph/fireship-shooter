@@ -1,2 +1,2 @@
 # fireship-shooter
-This is a Game
+This is a Game()
