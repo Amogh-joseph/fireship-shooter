@@ -1,2 +1,2 @@
 # fireship-shooter
-This is a Game(fireshooter)
+This is a Game(fireshooter) template
